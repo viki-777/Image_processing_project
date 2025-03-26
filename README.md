@@ -59,8 +59,6 @@ When using a standardized font for generating Braille images, the program succes
 
 #### ![Image 8](/images/vem.png)
 **Figure 8** - Input Braille text for "vem vacina".
-## Presentation
-[Click here](https://www.canva.com/design/DAGV6Q4gyoo/NHYvsoGyEHGi3ASS39U_LA/edit?continue_in_browser=true) to view the project presentation.
 
 
 #### ![Image 9](/images/resultado_vem.jpg)
@@ -68,3 +66,6 @@ When using a standardized font for generating Braille images, the program succes
 
 ## 🏆 Conclusion
 This project successfully demonstrates an image processing pipeline for recognizing Braille text from images. Future improvements could include enhancing segmentation algorithms, supporting handwritten Braille recognition, and incorporating machine learning techniques for more robust character recognition.
+
+## Presentation
+[Click here](https://www.canva.com/design/DAGV6Q4gyoo/NHYvsoGyEHGi3ASS39U_LA/edit?continue_in_browser=true) to view the project presentation.
