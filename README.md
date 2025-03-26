@@ -59,6 +59,9 @@ When using a standardized font for generating Braille images, the program succes
 
 #### ![Image 8](/images/vem.png)
 **Figure 8** - Input Braille text for "vem vacina".
+## Presentation
+[Click here](https://www.canva.com/design/DAGV6Q4gyoo/NHYvsoGyEHGi3ASS39U_LA/edit?continue_in_browser=true) to view the project presentation.
+
 
 #### ![Image 9](/images/resultado_vem.jpg)
 **Figure 9** - Correctly translated result of "vem vacina".
